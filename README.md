@@ -1,5 +1,4 @@
-# NEgen1
-NEgen1 can describe a range of 2D COFs that follow the nucleation-elongation mechanism
+
 # Welcome to  NEgen1  
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
