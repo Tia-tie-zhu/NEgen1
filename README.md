@@ -30,7 +30,7 @@ User-defined parameters
 int addition_number = 5;# number of addition
 int addition_interval = 1200; # time interval s
 double C_hhtp_add = 0.005; # monomer concentration mol/L
-double V_add[] = {0.020000000000000004,0.06,0.1777776,0.1066668,0.0355556}; # volume of addition L
+double V_add[] = {0.02,0.06,0.1777776,0.1066668,0.0355556}; # volume of addition L
 
 ```
 
