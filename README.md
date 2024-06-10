@@ -44,4 +44,4 @@ double V_add[] = {0.02,0.06,0.1777776,0.1066668,0.0355556}; # volume of addition
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check [issues page](<%= issuesUrl %>). 
+
